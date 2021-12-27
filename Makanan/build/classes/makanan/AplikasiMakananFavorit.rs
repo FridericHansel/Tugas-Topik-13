@@ -1,0 +1,12 @@
+javaapplication1.AplikasiMakananFavorit
+javaapplication1.AplikasiMakananFavorit$9
+javaapplication1.AplikasiMakananFavorit$6
+javaapplication1.AplikasiMakananFavorit$5
+javaapplication1.AplikasiMakananFavorit$8
+javaapplication1.AplikasiMakananFavorit$11
+javaapplication1.AplikasiMakananFavorit$7
+javaapplication1.AplikasiMakananFavorit$10
+javaapplication1.AplikasiMakananFavorit$2
+javaapplication1.AplikasiMakananFavorit$1
+javaapplication1.AplikasiMakananFavorit$4
+javaapplication1.AplikasiMakananFavorit$3
